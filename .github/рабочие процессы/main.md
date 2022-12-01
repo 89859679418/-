@@ -373,4 +373,4 @@
 </tbody>
 </table>
 <p><strong>Канбан-доска по результатам выполнения ЛР1</strong>
-</p>
+<img src="./canban.jpg" alt="image"></p>
